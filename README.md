@@ -14,29 +14,6 @@ Buatlah Repository nya lalu pilih opsi publik dan jangan lupa pilih Add a README
 ![Gambar 3](Screenshots/ss3.png)
 
 ### Instal Git Dekstop
-Setelah melakukan semua langkah anda bisa mengInstal git dekstop 
-
-
-### Membuat Folder
-Buatlah Folder baru lalu buka folder tersebut lalu klik kanan dan pilih opsi git bash
-
-
-### Git bash
-Setelah membuka git bash anda bisa ketik pwd untuk memulai 
-
-
-### Selanjutnya Git Clone
-Setelah pwd berhasil selanjutkan ke langkah git clone dan salin link dari repository anda
-
-
-### Membuat File HTML
-Jika Sudah terdapat File README.md buka file tersebut menggunakan Visual Studio Code. Setelah itu, buat file baru dengan format HTML. 
-
-
-### Buka kembali Git Bush
-Setelah membuat file baru buka kembali git bush dan ketik git add jika sudah langkah selanjutnya adalah melakukan git status untuk mengecek statusnya. Langkah selanjutnya adalah git commit
-
-
-### Git Config
-Jika anda tidak bisa melakukan git commit maka anda harus melakukan git config pada email dan nama anda. Setelah itu Repository siap di gunakan. 
+Setelah melakukan semua langkah anda bisa mengInstal git dekstop <p>
+![Gambar 4](Screenshots/ss4.png)
 
