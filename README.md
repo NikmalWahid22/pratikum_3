@@ -18,6 +18,10 @@ Setelah melakukan semua langkah anda bisa mengInstal git dekstop <p>
 ![Gambar 4](Screenshots/ss4.png)
 
 ## Membuat Folder
-Buatlah Folder baru lalu buka folder tersebut lalu klik kanan dan pilih opsi git bash
+Buatlah Folder baru lalu buka folder tersebut lalu klik kanan dan pilih opsi git bash <p>
 ![Gambar 5](Screenshots/ss6.png)
+
+### Git bash
+Setelah membuka git bash anda bisa ketik pwd untuk memulai <p>
+![Gambar 6](Screenshots/ss7.png)
 
