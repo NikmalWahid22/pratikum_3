@@ -17,3 +17,7 @@ Buatlah Repository nya lalu pilih opsi publik dan jangan lupa pilih Add a README
 Setelah melakukan semua langkah anda bisa mengInstal git dekstop <p>
 ![Gambar 4](Screenshots/ss4.png)
 
+## Membuat Folder
+Buatlah Folder baru lalu buka folder tersebut lalu klik kanan dan pilih opsi git bash
+![Gambar 5](Screenshots/ss6.png)
+
