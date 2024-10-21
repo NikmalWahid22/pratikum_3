@@ -87,4 +87,6 @@ Pada Tahap ini gunakan bentuk belah ketupat atau decision. Tahap ini merupakan t
 Pada tahap ini kembali menggunakan oval/terminator karena bentuk ini digunakan untuk mengawali dan mengakhiri suatu Flowchart. <p>
 ![Gambar 21](Screenshots/ss29.png)
 
+### Gambar Flowchart
+![Gambar 22](Screenshots/ss30.png)
 
