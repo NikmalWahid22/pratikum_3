@@ -61,3 +61,7 @@ Setelah melakukan git commit lakukan git push <p>
 ## FLOWCHART 
 Buatlah Terminator untuk memulai Flowchart <p>
 ![Gambar 15](Screenshots/ss19.png)
+
+### INPUT BILANGAN A, B, C
+Pada Tahap ini menggunakan bentuk processing atau persegi panjang dan inputkan 3 bilangan <p>
+![Gambar 16](Screenshots/ss20.png)
