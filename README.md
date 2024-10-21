@@ -40,3 +40,7 @@ Setelah membuat file baru buka kembali git bush dan ketik git add file pratikum.
 ### Git Config
 Jika anda tidak bisa melakukan git commit maka anda harus melakukan git config pada email dan nama anda. Setelah itu Repository siap di gunakan. <p>
 ![Gambar 10](Screenshots/ss11.png)
+
+### Menambahkan Foto 
+Jika ingin menambahkan foto ketik git add lalu ketikkan link foto yang ingin anda masukkan <p>
+![Gambar 11](Screenshots/ss12.png)
