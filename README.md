@@ -47,4 +47,8 @@ Jika ingin menambahkan foto ketik git add lalu ketikkan link foto yang ingin and
 
 ### Git add README
 Setelah melakukan kedua langkah di atas, selanjutnya ketik git add readme.md  <p>
-![Gambar 12](Screenshots/ss13.png) 
+![Gambar 12](Screenshots/ss14.png) 
+
+### Langkah Selanjutnya
+Langkah Selanjutnya adalah melakukan git commit apabila git commit berhasil maka anda bisa melakukan langkah selanjutnya yaitu git push. <p>
+![Gambar 13](Screenshots/ss16.png) 
