@@ -25,3 +25,6 @@ Buatlah Folder baru lalu buka folder tersebut lalu klik kanan dan pilih opsi git
 Setelah membuka git bash anda bisa ketik pwd untuk memulai <p>
 ![Gambar 6](Screenshots/ss7.png)
 
+### Selanjutnya Git Clone
+Setelah pwd berhasil selanjutkan ke langkah git clone dan salin link dari repository anda <p>
+![Gambar 7](Screenshot/ss/8.png)
