@@ -32,3 +32,7 @@ Setelah pwd berhasil selanjutkan ke langkah git clone dan salin link dari reposi
 ### Membuat File HTML
 Jika Sudah terdapat File README.md buka file tersebut menggunakan Visual Studio Code. Setelah itu, buat file baru dengan format HTML. <p>
 ![Gambar 8](Screenshots/ss9.png)
+
+### Buka kembali Git Bush
+Setelah membuat file baru buka kembali git bush dan ketik git add file pratikum.html jika sudah langkah selanjutnya adalah melakukan git status untuk mengecek statusnya. Langkah selanjutnya adalah git commit <p>
+![Gambar 9](Screenshots/ss10.png)
