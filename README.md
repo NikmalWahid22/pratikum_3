@@ -104,3 +104,8 @@ Program mulai dengan membandingkan bilangan A dengan bilangan lainnya. Pernyataa
 Jika A tidak lebih besar dari B, maka program masuk ke bagian else dan membandingkan B dengan C. Jika B>C maka B adalah bilangan terbesar, Jika tidak C adalah Bilangan terbesar. <p>
 ![Gambar 24](Screenshots/ss65.png)
 
+### Contoh
+Bilangan A=10, Bilangan B=45, Bilangan C=85
+Penjelasan: A tidak lebih besar dari C, B tidak lebih besar dari C
+C = Bilangan Terbesar <p>
+![Gambar 25](Screenshots/ss70.png)
