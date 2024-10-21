@@ -100,3 +100,7 @@ Pada langkah pembuatan repository kita sudah membuat file baru yaitu python, sek
 Program mulai dengan membandingkan bilangan A dengan bilangan lainnya. Pernyataan if pertama memeriksa apakah A lebih besar dari b. Setelah itu bandingkan dengan C. Apabila kondisi ini benar maka A adalah bilangan terbesar. 
 ![Gambar 23](Screenshots/ss50.png)
 
+### Langkah Ketiga
+Jika A tidak lebih besar dari B, maka program masuk ke bagian else dan membandingkan B dengan C. Jika B>C maka B adalah bilangan terbesar, Jika tidak C adalah Bilangan terbesar. <p>
+![Gambar 24](Screenshots/ss65.png)
+
