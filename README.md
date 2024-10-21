@@ -96,5 +96,7 @@ Pada tahap ini kembali menggunakan oval/terminator karena bentuk ini digunakan u
 Pada langkah pembuatan repository kita sudah membuat file baru yaitu python, sekarang kita akan membuat kode program dari flowchart tersebut. Buat kode program untuk memasukan bilangan dengan menggunakan integer untuk memasukkan bilangan bulat <p>
 ![Gambar 22](Screenshots/ss34.png)
 
-
+### Langkah Kedua 
+Program mulai dengan membandingkan bilangan A dengan bilangan lainnya. Pernyataan if pertama memeriksa apakah A lebih besar dari b. Setelah itu bandingkan dengan C. Apabila kondisi ini benar maka A adalah bilangan terbesar. 
+![Gambar 23](Screenshots/ss50.png)
 
