@@ -78,3 +78,8 @@ Pada Tahap ini gunakan bentuk belah ketupat atau decision. Tahap ini merupakan t
  Jika A tidak lebih besar dari B, maka B dibandingkan dengan C.  Terdapat Dua jalur yang mungkin:Jika YA (B lebih besar dari C), maka B adalah bilangan terbesar.
  Jika TIDAK (B tidak lebih besar dari C), maka C adalah bilangan terbesar. <p>
  ![Gambar 19](Screenshots/ss25.png)
+
+ ### Output Bilangan terbesar
+ Menggunakan bentuk Persegi panjang. Setelah melakukan perbandingan sesuai kondisi yang dijelaskan, program akan menampilkan hasil bilangan terbesar. Ada tiga kemungkinan hasil: A adalah bilangan terbesar. B adalah bilangan terbesar. C adalah bilangan terbesar. <p>
+ ![Gambar 20](Screenshots/ss27.png)
+
