@@ -52,3 +52,7 @@ Setelah melakukan kedua langkah di atas, selanjutnya ketik git add readme.md  <p
 ### Langkah Selanjutnya
 Langkah Selanjutnya adalah melakukan git commit apabila git commit berhasil maka anda bisa melakukan langkah selanjutnya yaitu git push. <p>
 ![Gambar 13](Screenshots/ss16.png) 
+
+### Melakukan git push 
+Setelah melakukan git commit lakukan git push <p>
+![Gambar 14](Screenshots/ss18.png)
