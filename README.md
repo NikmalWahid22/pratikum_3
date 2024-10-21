@@ -56,3 +56,5 @@ Langkah Selanjutnya adalah melakukan git commit apabila git commit berhasil maka
 ### Melakukan git push 
 Setelah melakukan git commit lakukan git push <p>
 ![Gambar 14](Screenshots/ss18.png)
+
+
