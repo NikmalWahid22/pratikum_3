@@ -83,3 +83,8 @@ Pada Tahap ini gunakan bentuk belah ketupat atau decision. Tahap ini merupakan t
  Menggunakan bentuk Persegi panjang. Setelah melakukan perbandingan sesuai kondisi yang dijelaskan, program akan menampilkan hasil bilangan terbesar. Ada tiga kemungkinan hasil: A adalah bilangan terbesar. B adalah bilangan terbesar. C adalah bilangan terbesar. <p>
  ![Gambar 20](Screenshots/ss27.png)
 
+### END
+Pada tahap ini kembali menggunakan oval/terminator karena bentuk ini digunakan untuk mengawali dan mengakhiri suatu Flowchart. <p>
+![Gambar 21](Screenshots/ss29.png)
+
+
