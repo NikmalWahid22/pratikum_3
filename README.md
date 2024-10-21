@@ -27,4 +27,4 @@ Setelah membuka git bash anda bisa ketik pwd untuk memulai <p>
 
 ### Selanjutnya Git Clone
 Setelah pwd berhasil selanjutkan ke langkah git clone dan salin link dari repository anda <p>
-![Gambar 7](Screenshot/ss8.png)
+![Gambar 7](Screenshots/ss8.png)
