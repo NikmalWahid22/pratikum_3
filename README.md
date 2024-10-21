@@ -69,3 +69,7 @@ Pada Tahap ini menggunakan bentuk processing atau persegi panjang dan inputkan 3
 ### DECISION A>B?
 Pada Tahap ini gunakan bentuk belah ketupat atau decision. Tahap ini merupakan tahap awal dalam pembuatan Flowchart, Di sini kita memeriksa apakah bilangan A lebih besar dari bilangan B. <p>
 ![Gambar 17](Screenshots/ss23.png)
+
+### DECISION A>B?
+ Jika YA (A lebih besar dari B), maka lanjut ke pemeriksaan A > C.  Jika TIDAK (A tidak lebih besar dari B), maka lanjut ke pemeriksaan B > C. <p>
+ ![Gambar 18](Screenshots/ss24.png)
