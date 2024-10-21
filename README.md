@@ -94,7 +94,7 @@ Pada tahap ini kembali menggunakan oval/terminator karena bentuk ini digunakan u
 ## KODE PEMROGRAMAN DENGAN PYTHON
 ### Langkah Pertama
 Pada langkah pembuatan repository kita sudah membuat file baru yaitu python, sekarang kita akan membuat kode program dari flowchart tersebut. Buat kode program untuk memasukan bilangan dengan menggunakan integer untuk memasukkan bilangan bulat <p>
-![Gambar 22](Scrennshots/ss33.png)
+![Gambar 22](Scrennshots/ss34.png)
 
 
 
