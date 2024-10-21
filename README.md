@@ -65,3 +65,7 @@ Buatlah Terminator untuk memulai Flowchart <p>
 ### INPUT BILANGAN A, B, C
 Pada Tahap ini menggunakan bentuk processing atau persegi panjang dan inputkan 3 bilangan <p>
 ![Gambar 16](Screenshots/ss20.png)
+
+### DECISION A>B?
+Pada Tahap ini gunakan bentuk belah ketupat atau decision. Tahap ini merupakan tahap awal dalam pembuatan Flowchart, Di sini kita memeriksa apakah bilangan A lebih besar dari bilangan B. <p>
+![Gambar 17](Screenshots/ss23.png)
