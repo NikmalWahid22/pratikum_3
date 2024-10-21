@@ -28,3 +28,7 @@ Setelah membuka git bash anda bisa ketik pwd untuk memulai <p>
 ### Selanjutnya Git Clone
 Setelah pwd berhasil selanjutkan ke langkah git clone dan salin link dari repository anda <p>
 ![Gambar 7](Screenshots/ss8.png)
+
+### Membuat File HTML
+Jika Sudah terdapat File README.md buka file tersebut menggunakan Visual Studio Code. Setelah itu, buat file baru dengan format HTML. <p>
+![Gambar 8](Screenshots/ss9.png)
