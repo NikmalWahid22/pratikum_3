@@ -44,3 +44,7 @@ Jika anda tidak bisa melakukan git commit maka anda harus melakukan git config p
 ### Menambahkan Foto 
 Jika ingin menambahkan foto ketik git add lalu ketikkan link foto yang ingin anda masukkan <p>
 ![Gambar 11](Screenshots/ss12.png)
+
+### Git add README
+Setelah melakukan kedua langkah di atas, selanjutnya ketik git add readme.md  <p>
+![Gambar 12](Screenshots/ss13.png) 
