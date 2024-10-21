@@ -73,3 +73,8 @@ Pada Tahap ini gunakan bentuk belah ketupat atau decision. Tahap ini merupakan t
 ### DECISION A>B?
  Jika YA (A lebih besar dari B), maka lanjut ke pemeriksaan A > C.  Jika TIDAK (A tidak lebih besar dari B), maka lanjut ke pemeriksaan B > C. <p>
  ![Gambar 18](Screenshots/ss24.png)
+
+ ### DESICION B>C?
+ Jika A tidak lebih besar dari B, maka B dibandingkan dengan C.  Terdapat Dua jalur yang mungkin:Jika YA (B lebih besar dari C), maka B adalah bilangan terbesar.
+ Jika TIDAK (B tidak lebih besar dari C), maka C adalah bilangan terbesar. <p>
+ ![Gambar 19](Screenshots/ss25.png)
