@@ -36,3 +36,7 @@ Jika Sudah terdapat File README.md buka file tersebut menggunakan Visual Studio 
 ### Buka kembali Git Bush
 Setelah membuat file baru buka kembali git bush dan ketik git add file pratikum.html jika sudah langkah selanjutnya adalah melakukan git status untuk mengecek statusnya. Langkah selanjutnya adalah git commit <p>
 ![Gambar 9](Screenshots/ss10.png)
+
+### Git Config
+Jika anda tidak bisa melakukan git commit maka anda harus melakukan git config pada email dan nama anda. Setelah itu Repository siap di gunakan. <p>
+![Gambar 10](Screenshots/ss11.png)
